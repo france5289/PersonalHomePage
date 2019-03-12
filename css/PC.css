@@ -1,0 +1,30 @@
+#Container{
+    width: 1000px;
+    height: 2000px;
+    padding: 0px;
+    margin: 10px auto;
+    float: left;
+}
+#PersonalPhoto{
+    height: 480px;
+    width: 36%;
+    float: left;
+}
+#PersonalInfo{
+    height: 480px;
+    width: 64%;
+    float: left;
+}
+#Biography{
+    height: 50%;
+}
+#Curriculum{
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+#Video{
+    height: 50%;
+    width: 50%;
+    float: left;
+}
