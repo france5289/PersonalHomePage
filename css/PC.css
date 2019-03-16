@@ -14,9 +14,12 @@
     height: 480px;
     width: 64%;
     float: left;
+    background-color: lightblue;
+
 }
 #Biography{
     height: 50%;
+    
 }
 #Curriculum{
     height: 50%;
@@ -27,4 +30,46 @@
     height: 50%;
     width: 50%;
     float: left;
+}
+#ICONResources{
+    height: 200px;
+    width: 1000px;
+    float: left;
+}
+h1{
+    font-family:  Comic Sans MS,arial,helvetica,sans-serif;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+span{
+    color: rgb(0, 47, 255);
+}
+ul.Education{
+    font-family:  Comic Sans MS,arial,helvetica,sans-serif;
+    list-style-image: url("https://img.icons8.com/office/16/000000/school.png");
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+ul.Ability{
+    font-family:  Comic Sans MS,arial,helvetica,sans-serif;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+h3.Education{
+    font-family:  Comic Sans MS,arial,helvetica,sans-serif;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+a:link{
+    text-decoration: none;
+    color: deeppink;
+}
+a:visited{
+    color: purple;
+}
+a:hover{
+    color: chartreuse;
+}
+a:active{
+    color: blue;
 }
