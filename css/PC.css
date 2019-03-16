@@ -18,8 +18,8 @@
 
 }
 #Biography{
-    height: 50%;
-    
+    height: 40%;
+    background-color: azure;
 }
 #Curriculum{
     height: 50%;
@@ -45,7 +45,7 @@ span{
     color: rgb(0, 47, 255);
 }
 ul.Education{
-    font-family:  Comic Sans MS,arial,helvetica,sans-serif;
+    font-family:  Comic Sans MS,"儷黑 Pro","標楷體",arial,helvetica,sans-serif;
     list-style-image: url("https://img.icons8.com/office/16/000000/school.png");
     margin-top: 0em;
     margin-bottom: 0em;
@@ -72,4 +72,22 @@ a:hover{
 }
 a:active{
     color: blue;
+}
+dfn.Bio{
+    color: blue;
+}
+em.Bio{
+    color: blue;
+}
+p.Bio{
+    font-family: "儷黑 Pro", "標楷體";
+}
+p.VideoInfo{
+    font-family: "儷黑 Pro", "標楷體";
+}
+em.VideoInfo{
+    font-family: Comic Sans MS,"儷黑 Pro", "標楷體";
+}
+dfn.VideoInfo{
+    font-family: Comic Sans MS,"儷黑 Pro", "標楷體";
 }
