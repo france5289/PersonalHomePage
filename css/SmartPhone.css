@@ -48,6 +48,7 @@ ul.Education{
 ul.Ability{
     font-family:  Comic Sans MS,arial,helvetica,sans-serif;
     margin-top: 0em;
+    list-style-type: none;
     margin-bottom: 0em;
 }
 h3.Education{
